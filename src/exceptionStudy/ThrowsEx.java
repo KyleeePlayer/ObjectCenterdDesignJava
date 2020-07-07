@@ -15,7 +15,7 @@ public class ThrowsEx {
 		doC();
 	}
 	public void doC() throws Exception{
-		//ExceptionÀÌ ¹ß»ýÇÒ ÄÚµå
+		//Exception í•œê¸€ ì•ˆê¹¨
 	}
 
 }
